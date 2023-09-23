@@ -6,3 +6,7 @@ Webui with Html,css,javascript,jsp
 * Tomcat Jasper
 * hibernate
 * Mysql-connector-j
+
+Some dependency issue may cause the application crash
+
+
